@@ -1,0 +1,7 @@
+name: EndDupe
+version: '${project.version}'
+main: me.krymz0n.enddupe.Main
+api-version: 1.16
+authors: [ KRYMZ0N ]
+description: end dupe
+website: www.3b3t.me
